@@ -8,10 +8,10 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Ramadhan💖" 
+global.botname = process.env.BotName || "TRIPLE C 💖" 
 global.author = process.env.Author || "@Rammybot" 
 global.packname = process.env.PackName || "Ramadhan v2 MD" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
+global.myweb = process.env.Web || "ODcyM_AN_YA_XM_AN_YA_zcXE="
 global.footer = process.env.Footer || "© Ramadhan Bot" 
 global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
@@ -101,10 +101,10 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Ramadhan💗", 
+  botname: process.env.BotName ||"TRIPLE C💗", 
   author: process.env.Author || "@Rammy bot",
   packname: process.env.PackName || "Ramadhan v2 MD",
-  myweb: process.env.Web || "https://github.com/PikaBotz",
+  myweb: process.env.Web || "ODcyM_AN_YA_XM_AN_YA_zcXE=",
   footer: process.env.Footer || "© Ramadhan bot",
   prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "🎐",
